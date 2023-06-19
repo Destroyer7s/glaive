@@ -37,7 +37,7 @@ python3 glaive.py
 
 4. Wait for theHarvester to gather information from different sources.
 
-5. Check theHarvesterLog.txt for the results.
+5. Check the HarvesterLog.txt for the results.
 
 
 # Sources
