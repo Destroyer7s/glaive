@@ -30,7 +30,7 @@ pip install -r requirements.txt
 2. Run glaive:
 
 ```bash
-python glaive.py
+python3 glaive.py
 ```
 
 3. Enter the domain when prompted.
