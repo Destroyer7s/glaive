@@ -16,7 +16,7 @@ glaive is a tool used for gathering information about a specific domain. It quer
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/glaive.git
+git clone https://github.com/Destroyer7s/glaive.git
 ```
 
 <!-- ignore 
