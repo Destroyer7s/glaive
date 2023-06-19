@@ -18,9 +18,11 @@ theHarvester is a tool used for gathering information about a specific domain. I
 git clone https://github.com/your_username/theHarvester.git
 ```
 
+
+This step should be skipped
+```
 2. Install the dependencies:
 
-```bash
 pip install -r requirements.txt
 ```
 
