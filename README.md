@@ -8,14 +8,15 @@
 
 ## Introduction
 
-theHarvester is a tool used for gathering information about a specific domain. It queries various sources and collects data such as email addresses, subdomains, and more.
+glaive is a tool used for gathering information about a specific domain. It queries various sources and collects data such as email addresses, subdomains, and more all through the power of  [theHarvestor tool]( https://github.com/laramies/theHarvester)
+
 
 ## Usage
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/theHarvester.git
+git clone https://github.com/your_username/glaive.git
 ```
 
 <!-- ignore 
@@ -29,7 +30,7 @@ pip install -r requirements.txt
 2. Run glaive:
 
 ```bash
-python theHarvester.py
+python glaive.py
 ```
 
 3. Enter the domain when prompted.
