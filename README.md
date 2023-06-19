@@ -18,13 +18,13 @@ theHarvester is a tool used for gathering information about a specific domain. I
 git clone https://github.com/your_username/theHarvester.git
 ```
 
+<!-- ignore 
 
-This step should be skipped
-```
 2. Install the dependencies:
 
 pip install -r requirements.txt
-```
+
+ -->
 
 3. Run glaive:
 
