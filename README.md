@@ -26,17 +26,17 @@ pip install -r requirements.txt
 
  -->
 
-3. Run glaive:
+2. Run glaive:
 
 ```bash
 python theHarvester.py
 ```
 
-4. Enter the domain when prompted.
+3. Enter the domain when prompted.
 
-5. Wait for theHarvester to gather information from different sources.
+4. Wait for theHarvester to gather information from different sources.
 
-6. Check theHarvesterLog.txt for the results.
+5. Check theHarvesterLog.txt for the results.
 
 
 # Sources
