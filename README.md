@@ -8,7 +8,7 @@
 
 ## Introduction
 
-glaive is a tool used for gathering information about a specific domain. It queries various sources and collects data such as email addresses, subdomains, and more all through the power of  [theHarvestor ]( https://github.com/laramies/theHarvester) tool
+glaive is a tool to streamline the useage of [theHarvestor ]( https://github.com/laramies/theHarvester) tool. It queries various sources and collects data such as email addresses,and subdomains, into one output file.
 
 -->  Now allows saving condensed output to a file  <--
 
