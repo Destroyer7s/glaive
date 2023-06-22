@@ -24,9 +24,9 @@ git clone https://github.com/Destroyer7s/glaive.git
 
 
 2. Install the dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 
 
 3. Run glaive:
