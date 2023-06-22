@@ -21,25 +21,25 @@ glaive is a tool to streamline the useage of [theHarvestor ]( https://github.com
 git clone https://github.com/Destroyer7s/glaive.git
 ```
 
-<!-- ignore 
+
 
 2. Install the dependencies:
 
 pip install -r requirements.txt
 
- -->
 
-2. Run glaive:
+
+3. Run glaive:
 
 ```bash
 python3 glaive.py
 ```
 
-3. Enter the domain when prompted.
+4. Enter the domain when prompted.
 
-4. Wait for theHarvester to gather information from different sources.
+5. Wait for theHarvester to gather information from different sources.
 
-5. Check the HarvesterLog.txt for the results.
+6. Check the HarvesterLog.txt for the results.
 
 
 # Sources
