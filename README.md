@@ -84,6 +84,9 @@ The following sources are used by theHarvester to collect data:
 
 glaive uses theHarvestor tool to collect data and stores it in the HarvesterLog.txt file. Each source's results are listed separately.
 
+![Image Description](assets/htb.PNG)
+
+
 ## Disclaimer
 
 Please use theHarvester responsibly and respect the privacy and security of others. Usage of this tool for malicious purposes is strictly prohibited.
